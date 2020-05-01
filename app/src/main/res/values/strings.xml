@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">And_Homework_1.2.2</string>
+    <string name="btn_next_text">Next</string>
+    <string name="btn_previous_text">Previous</string>
+    <string name="iv_photo_contentDescription">photo</string>
+    <string name="main_activity_title">Фотоальбом</string>
+    <string name="tv_photo_text">http://myfile.org/%d</string>
+</resources>
